@@ -1,0 +1,18 @@
+.bg-color {
+    background-color: #9cbef0;
+  }
+.bg-rock{
+  background-color: rgb(180, 226, 238);
+}
+.bg-image2 {
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg-ticket{
+  background-color: rgb(220, 194, 253);
+}
+.bg-indie{
+  background-color: rgb(239, 218, 251);
+}
